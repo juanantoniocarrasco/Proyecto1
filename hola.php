@@ -4,8 +4,9 @@
   </head>
     <body>
       <?php
-      echo "Juan es un campeón";
+      echo "Juan es un megacampeón";
      ?>
       <p> Parrafo1 </p>
+
     </body>
   </html>
